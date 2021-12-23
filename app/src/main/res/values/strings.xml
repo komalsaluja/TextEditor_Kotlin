@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Text Editor</string>
+
+    <array name="color">
+        <item>Choose Color</item>
+        <item>RED</item>
+        <item>BLACK</item>
+        <item>GREEN</item>
+        <item>BLUE</item>
+        <item>CYAN</item>
+    </array>
+
+    <array name="size">
+        <item>Choose Size</item>
+        <item>"20"</item>
+        <item>"25"</item>
+        <item>"30"</item>
+        <item>"35"</item>
+        <item>"40"</item>
+
+    </array>
+
+    <array name="typeFace">
+        <item>Style</item>
+        <item>DEFAULT</item>
+        <item>DEFAULT BOLD</item>
+        <item>MONOSPACE</item>
+        <item>SANS SERIF</item>
+        <item>SERIF</item>
+
+    </array>
+</resources>
